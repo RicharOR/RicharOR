@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richar Ochoa</h1>
 <h3 align="center">A passionate frontend developer from Colombia, based on Madrid, Spain.</h3>
 
+<p> Since I was a child I have been fascinated by the technological world, and recently I finally decided to embark on the world of learning programming, specifically I was attracted by web programming, so in these months I am devoting all my efforts to grow as a developer. </p>
 - 🌱 I’m currently learning **React JS and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
